@@ -1,9 +1,10 @@
-Iridium-library-permissions
+Iridium Components Permissions
 ===========================
 
 Permissions component. Can work independantly, but best used with Iridium Framework.
 
-This component contains two modules. One is a really simple role-based permission system, the other one is a more complex Access Control Lists system.
+This component contains two modules.
+One is a really simple role-based permission system, the other one is a more complex Access Control Lists system.
 
 The ACL system is not available yet as it is still under development.
 
@@ -15,7 +16,7 @@ Create a composer.json file at the root of your project. This file must at least
 ```json
     {
         "require": {
-            "awakenweb/iridium-library-permissions": "dev-master"
+            "awakenweb/iridium-components-permissions": "dev-master"
             }
     }
 ```
