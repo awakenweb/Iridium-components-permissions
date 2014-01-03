@@ -1,0 +1,27 @@
+{
+    "name": "awakenweb/iridium-library-permissions",
+    "description": "Iridium Library Access Control Lists Module",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "type": "library",
+    "authors":
+            [
+                {
+                    "name": "Mathieu Savelli",
+                    "email": "mathieu.savelli@awakenweb.fr",
+                    "homepage": "http://awakenweb.fr"
+                }
+            ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "atoum/atoum": "dev-master"
+    },
+    "autoload":
+            {
+                "psr-0": {"Iridium\\Components\\Permissions\\": ""}
+            },
+    "target-dir": "Iridium/Components/Permissions"
+}
+
