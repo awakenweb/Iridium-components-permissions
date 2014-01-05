@@ -8,6 +8,8 @@ One is a really simple role-based permission system, the other one is a more com
 
 *The ACL system is not available yet as it is still under development.*
 
+The class is unit tested using [Atoum](https://github.com/atoum/atoum).
+
 Installation
 ------------
 ### Prerequisites
