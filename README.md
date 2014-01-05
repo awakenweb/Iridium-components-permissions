@@ -6,9 +6,15 @@ Permissions component. Can work independantly, but best used with Iridium Framew
 This component contains two modules.
 One is a really simple role-based permission system, the other one is a more complex Access Control Lists system.
 
-The ACL system is not available yet as it is still under development.
+*The ACL system is not available yet as it is still under development.*
 
-## Installation
+Installation
+------------
+### Prerequisites
+
+***Iridium requires at least PHP 5.4+ to work.***
+
+Some of Iridium components may work on PHP5.3 but no support will be provided for this version.
 
 ### Using Composer
 First, install [Composer](http://getcomposer.org/ "Composer").
