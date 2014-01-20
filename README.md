@@ -1,6 +1,8 @@
 Iridium Components Permissions
 ===========================
 
+[![Build Status](https://travis-ci.org/awakenweb/Iridium-components-permissions.png?branch=master)](https://travis-ci.org/awakenweb/Iridium-components-permissions)
+
 Permissions component. Can work independantly, but best used with Iridium Framework.
 
 This component contains two modules.
